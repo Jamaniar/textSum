@@ -1,0 +1,41 @@
+**/.*
+**/classes/**
+**/target/**
+**/node/**
+**/node_modules/**
+**/build/**
+**/node_modules/**
+**/WEB-INF/lib/**
+**/__pycache__
+**/Survey/metlife_covid.sav
+**out_text.txt
+# Ignore JRebel config files #
+###################
+**/rebel.xml
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+*.ear
+*.jar
+# Logs and databases #
+######################
+*.log
+*.sql
+# Do NOT ignore this file
+!.gitignore

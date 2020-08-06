@@ -1,5 +1,3 @@
-## textSum -- A text summarization tool.
-
 ## Create env --> t5.yml
 #### Known package issues, contact Patrick Schaefer/Junaid Maniar for help
 
@@ -12,13 +10,3 @@
 	### tesseract setup x64
 
 ## Run textSum.py to display Dash Page
-
-## Introduction --
-
-## Data --
-
-## Methodology --
-
-## Results -- 
-
-## WIP
