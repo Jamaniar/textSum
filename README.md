@@ -1,5 +1,6 @@
-## textSum -- A text summarization tool.
+## textSum - A text summarization tool.
 
+<<<<<<< HEAD
 ## Create env --> t5.yml
 #### Known package issues, contact Patrick Schaefer/Junaid Maniar for help
 
@@ -14,11 +15,14 @@
 ## Run textSum.py to display Dash Page
 
 ## Introduction --
+=======
+## Introduction -
+>>>>>>> 16547cae45b06aa74f3adb1f6d81645ba0b7c5c8
 
-## Data --
+## Data -
 
-## Methodology --
+## Methodology -
 
-## Results -- 
+## Results -
 
-## WIP
+## WIP -
