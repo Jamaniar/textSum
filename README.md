@@ -1,6 +1,5 @@
 ## textSum - A text summarization tool.
 
-<<<<<<< HEAD
 ## Create env --> t5.yml
 #### Known package issues, contact Patrick Schaefer/Junaid Maniar for help
 
